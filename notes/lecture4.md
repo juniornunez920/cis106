@@ -46,3 +46,14 @@ TO FIND .png in the end
 
 To find anything in the middle and everything
 ' ls B?nana* ' 
+
+# Continuation on 10/27/21
+vacation
+ |-Italy/Nature/Night 
+ |-DR/Nature/Day
+ |-Dubai/Nature/Day
+ |-Tokyo/Nature/Night
+
+juniornunez920@juniornunez920-VirtualBox:~$ 'cd'
+juniornunez920@juniornunez920-VirtualBox:~$ mkdir vac21/{italy, dr, dubai, tokyo}/nature
+juniornunez920@juniornunez920-VirtualBox:~$ tree vac21/
