@@ -6,16 +6,14 @@
 Questions to answer
 ## Which project will you be completing?
 
-* For the purpose of the final project I will be building a file server. They are 3 options of which I still need to decide between SAMBA, NFS and Openmediavault. The decision will be made within a week of start.
-  
+* For the purpose of the final project I will be building a manual on how to install a virtual machine running Ubuntu 20.04. 
 ### Why have you chosen this project?
 
-* I have always to create my own file server and with a raspberry pi it will be more fun even.
+* I would like for others to try this following my manual. Following tutorials is great but a well documented tutorial is even better.
 
 ### What are the possible problems, roadblocks, or difficulties you anticipate during the process of completing the project?
 
-* Limitations might be lack of compability between files or lack of storage. But down the road those issues will be fixed. Risk management is one of the skills I will seek to run in order to prevent catastrophes.
-
+* Limitations might be lack of time. Approaching the end of the semester will be a tough process.
 
 ### How are you planning to overcome these difficulties?
 
@@ -23,4 +21,4 @@ Questions to answer
 
 
 ### How do you think completing this project will help you in your career?
- *  My Major is IT with the Network Administration Option. In the future I will be dealing ith servers and storages, and this might be the guide to a small peek of what is to come for me later on.
+ *  My Major is IT with the Network Administration Option. In the future I will be dealing ith servers and storages, and this might be the guide to a small peek of what is to come for me later on. But perfectioning on planning for platforms will set me up 
